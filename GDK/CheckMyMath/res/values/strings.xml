@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">CheckMyMath</string>
+    <string name="menu_takepicture">Take a picture!</string>
+    <string name="voice_trigger">Check My Math</string>
+    <string name="response_correct">Correct!</string>
+    <string name="response_incorrect">Incorrect!</string>
+    <string name="menu_stop">Stop</string>
+
+</resources>
